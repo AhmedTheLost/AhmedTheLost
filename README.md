@@ -1,7 +1,4 @@
-/* تلوين اسم المستخدم باللون البرتقالي */
-.user-profile-link { >_ echo "Welcome to my github profile"
-    color: orange;
-}
+<span style="color:red;">Welcome to my github profile</span>
 
 <!---
 AhmedTheLost/AhmedTheLost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
