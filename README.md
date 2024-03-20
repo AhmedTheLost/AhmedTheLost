@@ -1,3 +1,3 @@
 ```markdown
-<span style="color:red;">**Welcome to my github profile**</span>
+**Welcome to my github profile**
 ```
